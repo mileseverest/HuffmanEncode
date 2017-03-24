@@ -1,0 +1,32 @@
+﻿Build started 4/13/2016 11:43:11 PM.
+     1>Project "C:\Users\Miles Everest\Documents\Visual Studio 2015\Projects\PA2 starter\PA2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"D:\Dropbox\Teaching\2015 - fall CptS 223\homework\pa2\PA2_dll" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp PA2.cpp
+         PA2.cpp
+     1>c:\users\miles everest\documents\visual studio 2015\projects\pa2 starter\binaryfile.h(80): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\miles everest\documents\visual studio 2015\projects\pa2 starter\binaryfile.h(88): warning C4800: 'char': forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\miles everest\documents\visual studio 2015\projects\pa2 starter\pa2.cpp(53): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\miles everest\documents\visual studio 2015\projects\pa2 starter\pa2.cpp(55): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\miles everest\documents\visual studio 2015\projects\pa2 starter\pa2.cpp(121): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\miles everest\documents\visual studio 2015\projects\pa2 starter\pa2.cpp(232): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\miles everest\documents\visual studio 2015\projects\pa2 starter\pa2.cpp(294): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\miles everest\documents\visual studio 2015\projects\pa2 starter\pa2.cpp(306): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\miles everest\documents\visual studio 2015\projects\pa2 starter\pa2.cpp(277): warning C4101: 'tree': unreferenced local variable
+     1>c:\users\miles everest\documents\visual studio 2015\projects\pa2 starter\pa2.cpp(339): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\miles everest\documents\visual studio 2015\projects\pa2 starter\pa2.cpp(341): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\miles everest\documents\visual studio 2015\projects\pa2 starter\pa2.cpp(345): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\miles everest\documents\visual studio 2015\projects\pa2 starter\pa2.cpp(349): warning C4018: '<': signed/unsigned mismatch
+         main.cpp
+     1>c:\users\miles everest\documents\visual studio 2015\projects\pa2 starter\binaryfile.h(80): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\miles everest\documents\visual studio 2015\projects\pa2 starter\binaryfile.h(88): warning C4800: 'char': forcing value to bool 'true' or 'false' (performance warning)
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Miles Everest\Documents\Visual Studio 2015\Projects\PA2 starter\Debug\PA2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Miles Everest\Documents\Visual Studio 2015\Projects\PA2 starter\Debug\PA2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Miles Everest\Documents\Visual Studio 2015\Projects\PA2 starter\Debug\PA2.lib" /MACHINE:X86 Debug\main.obj
+         Debug\PA2.obj
+         LINK : C:\Users\Miles Everest\Documents\Visual Studio 2015\Projects\PA2 starter\Debug\PA2.exe not found or not built by the last incremental link; performing full link
+         PA2.vcxproj -> C:\Users\Miles Everest\Documents\Visual Studio 2015\Projects\PA2 starter\Debug\PA2.exe
+     1>Done Building Project "C:\Users\Miles Everest\Documents\Visual Studio 2015\Projects\PA2 starter\PA2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.32
